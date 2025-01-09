@@ -1,14 +1,14 @@
 # Coffee sales dashboard using Excel
 This dashboard showcases a comprehensive sales dashboard created in Excel to analyze and visualize coffee sales performance. The dashbaord provides insights into sales across regions and products, with key metrics including **Total sales**, **growth trends**, and **top5 customers**.
 
---
+---
 
 ## Features
 - **Dynamic Data Integration**: Consolidates data from multiple source worksheets into a single "main sheet".
 - **Advanced Formulas**: Utilized 'Excel's powerful XLOOKUP and INDEX-MATCH functions for data retrieval.
 - **Interactive Visualizations**: Combined pivot tables and slicers for customizable insights.
 
---
+---
 
 ## Data Ingestion:
 ### Source Dtaa
@@ -37,7 +37,7 @@ To prepare the data for analysis, the following transformations were applied:
 ---
 
 ## Data Visualization
-- ** Pivot Tables**: Created a sumamrize data and provide actionable insights.
+- **Pivot Tables**: Created a sumamrize data and provide actionable insights.
 - **Interactive Dashbaord**: Includes:
   - Bar and line charts to visualize total sales over time, and growth trends.
   - Filter slicers for drill-down analysis by region, roast type, and customer.
