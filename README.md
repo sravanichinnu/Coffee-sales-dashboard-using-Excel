@@ -1,5 +1,5 @@
 # Coffee sales dashboard using Excel
-This dashboard showcases a comprehensive sales dashboard created in Excel to analyze and visualize coffee sales performance. The dashbaord provides insights into sales across regions and products, with key metrics including **Total sales**, **growth trends**, and **top5 customers**.
+This project showcases a comprehensive sales dashboard created in Excel to analyze and visualize coffee sales performance. The dashbaord provides insights into sales across regions and products, with key metrics including **Total sales**, **growth trends**, and **top5 customers**.
 
 ## Features
 - **Dynamic Data Integration**: Consolidates data from multiple source worksheets into a single "main sheet".
